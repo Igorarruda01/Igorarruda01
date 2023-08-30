@@ -1,6 +1,8 @@
-#Jose igor
+<h1>Jose Igor</h1>
 
 
+
+<br>
 <div style="display: inline-block;">
   <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 
