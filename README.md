@@ -4,8 +4,13 @@
 <hr>
 
 
-### Iae pessoal 🤘
 
+### Hey pessoal 🤘
+
+
+
+
+### Desenvolvendo projetos para web!
 <!--
 **Igorarruda01/Igorarruda01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
